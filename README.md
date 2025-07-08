@@ -1,6 +1,9 @@
 # rust-zero2prod
 
 ```bash
+# watch
+cargo watch -x check
+
 # tests
 cargo test
 cargo tarpaulin --ignore-tests
